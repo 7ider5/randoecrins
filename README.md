@@ -21,14 +21,14 @@ Pierre arrive à Lyon/Vienne, programme à définir avec Mariya.
 
 Mariya et Pierre vont chercher Na et Hung en début de soirée à l'aéroport Lyon Saint Exupéry ou celui de Grenoble Alpes Isère en fonction de ce qui les arrange le mieux.
 
-**Direction le Chazelet** (1800 m) pour passer la nuit.   
-Coordonnées du parking : 45°03'12.7"N 6°17'13.3"E (45.053522, 6.287016)     
+**Direction le Chazelet** (1800 m) pour passer la nuit.
+Coordonnées du parking : 45°03'12.7"N 6°17'13.3"E (45.053522, 6.287016)
 ![De Lyon](/Images/Aller.png)
 
-**Nuit du vendredi au relais d'Emparis :**  
-![](http://img.over-blog.com/300x224/2/51/18/19/010.JPG)   
-Adresse de l'hôtel : Le Chazelet, 05320 La Grave, France / +33476799010   
-Coordonnées de l'hôtel : 45°03'14.3"N 6°17'09.6"E (45.053979, 6.286007)   
+**Nuit du vendredi au relais d'Emparis :**
+![](http://img.over-blog.com/300x224/2/51/18/19/010.JPG)
+Adresse de l'hôtel : Le Chazelet, 05320 La Grave, France / +33476799010
+Coordonnées de l'hôtel : 45°03'14.3"N 6°17'09.6"E (45.053979, 6.286007)
 Réservation prise pour 4 personnes pour la nuit du 28 août + dîner, petit dej et panier-repas
 
 
@@ -38,43 +38,46 @@ Réservation prise pour 4 personnes pour la nuit du 28 août + dîner, petit dej
 **Premier arrêt**  : L’oratoire au village du Chazelet (1 800 m d’altitude). Il donne une belle vue sur la Meije et le Rateau :
 ![La Meije et le Rateau vues depuis les GR50/54 s'élevant au-dessus du Chazelet](http://img.over-blog.com/655x437/3/03/41/94/Oisans/Oisans-7444.JPG)
 
-**Deuxième arrêt** : le lac Lérié et le lac Noir.   
+**Deuxième arrêt** : le lac Lérié et le lac Noir.
 Ils se situent sur un haut plateau à 2400 mètres d'altitude avec une vue panoramique sur tous les massifs avoisinants une vue admirable vers les Aiguilles d'Arves, la Meije, le Râteau et les glaciers au nord du massif des Écrins :
 
 ![le lac Noir avec, au fond, La Meije, le Rateau et le glacier de la Girose](http://img.over-blog.com/655x437/3/03/41/94/Oisans/Oisans-7499.JPG)
 
-**Arrivé au refuge des Mouterres**   
-Ici on passe notre première nuit en refuge   
+**Arrivé au refuge des Mouterres**
+Ici on passe notre première nuit en refuge
 ![Le refuge des Mouterres](http://img.over-blog.com/655x437/3/03/41/94/Oisans/Oisans-7467.JPG)
 
 
 ### Dimanche 30 août : Ascension du Pic du Mas de la Grave
+
 
 ### Lundi 31 : retour au Chazelet
 
 
 En fonction du parcours, on ne devrait pas arriver trop tard. Selon notre motivation on pourra soit faire une activité dans le coin soit se reposer.
 
-**Retour au parking du Chazelet**   
+**Retour au parking du Chazelet**
 Si on ne part pas trop tard du refuge du Pic du Mas de la Grave, on sera arrivé au Chazelet en début d'après-midi. On peut alors prévoir un bon repas et allez ensuite se baigner.
 
 **Mardi 1er :** retour à Lyon/Grenoble
 
 ## Ce qu'il faut emporter :
 
-Pas de valise, seulement un sac à dos
+Températures extérieures attendues à 2200 mètres : 16°C la journée, 6 la nuit
+
 ### En refuge
 - lampe frontale
 - bouchons d’oreilles
 - Sac de couchage et éventuellement draps de sac
-- kit de toilette  
+- kit de toilette
 - change
+- maillot de bain (sauna, piscine ...)
 
 ### En rando
 **Chacun :**
 - chapeau
 - lunettes de soleil
-- crème solaire (on peut prendre un seul tube)
+- crème solaire (on peut prendre un seul tube pour tous)
 - veste imperméable
 - polaire
 - téléphone portable
@@ -89,8 +92,21 @@ Pas de valise, seulement un sac à dos
 - boussole
 - coordonnées du refuge
 
+## Ce qu'il ne faut PAS emporter
+Toutes les choses que vous allez devoir porter sur votre dos et qui ne servent pas pendant notre rando
+- une trousse de maquillage à faire pâlir un peintre en bâtiment
+- une valise à roulette de 60 litres : seulement un sac à dos (un seul. mais une banane ça peut aller si elle ne gêne pas la marche)
+- une kitchenette avec réchaud gaz et frigo sur batterie : on déjeunera et dînera en chalet et on demandera de nous préparer des paniers-repas
+-
+
+# Et s'il pleut fort ???
+#### L'Argentière-la-Bessée
+- Spa institut de beauté Amaneï
+- Visite et Escape game dans la Mine d'argent du Fournel
+- ?
+
 # Liens :
-- [Plan général du massif](https://www.cheminsdavant.com/image/PDF/21-La%20Carte.pdf)   
+- [Plan général du massif](https://www.cheminsdavant.com/image/PDF/21-La%20Carte.pdf)
 - [Info sur les refuges](http://www.ecrins-parcnational.fr/sites/ecrins-parcnational.com/files/article/16418/pnerefugesweb.pdf)
-- [Météo à surveiller](https://www.lagrave-lameije.com/fr/acces-rapide/meteo/)   
-- La rando est inspirée du [tour de la Grave au Plateau d'Emparis par le Pic du Mas de la Grave](http://www.grand-tour-ecrins.fr/a-pied/tour-de-la-grave-au-plateau-demparis-par-le-pic-du-mas-de-la-grave/)  
+- [Météo à surveiller](https://www.lagrave-lameije.com/fr/acces-rapide/meteo/)
+- La rando est inspirée du [tour de la Grave au Plateau d'Emparis par le Pic du Mas de la Grave](http://www.grand-tour-ecrins.fr/a-pied/tour-de-la-grave-au-plateau-demparis-par-le-pic-du-mas-de-la-grave/)
