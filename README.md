@@ -23,10 +23,7 @@ Mariya et Pierre vont chercher Na et Hung en début de soirée à l'aéroport Ly
 
 **Direction le Chazelet** (1800 m) pour passer la nuit.   
 Coordonnées du parking : 45°03'12.7"N 6°17'13.3"E (45.053522, 6.287016)     
-
-| De Lyon | De Grenoble |
-:---------|-------------:
-![Lyon](/home/xps-13/Documents/RandoEcrins-Lyon.png)|![Grenoble](/home/xps-13/Documents/RandoEcrins-Grenoble.png)
+![De Lyon](/Images/Aller.png)
 
 **Nuit du vendredi au relais d'Emparis :**  
 ![](http://img.over-blog.com/300x224/2/51/18/19/010.JPG)   
