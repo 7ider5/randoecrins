@@ -51,6 +51,12 @@ Ici on passe notre première nuit en refuge
 ### Dimanche 30 août : Ascension du Pic du Mas de la Grave
 
 
+**Arivée au refuge du Pic du Mas de la Grave**
+Ici on passe notre deuxième nuis en refuge
+![Le refuge du Pic du Mas de la Grave](https://www.montagnes-magazine.com/media/actu/2019/07-juillet/Pic_masdelagrave.jpg)
+[Photo panoramique](https://www.google.com/maps/@45.086668,6.260123,3a,75y,340h,90t/data=!3m8!1e1!3m6!1sAF1QipNlF1apRpo0inqDx9SX5V5XN7AJDgYv_b9pJHDx!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNlF1apRpo0inqDx9SX5V5XN7AJDgYv_b9pJHDx%3Dw203-h100-k-no-pi-0-ya195.99997-ro-0-fo100!7i8704!8i4352)
+
+
 ### Lundi 31 : retour au Chazelet
 
 
