@@ -119,7 +119,7 @@ Toutes les choses que vous allez devoir porter sur votre dos et qui ne servent p
 - une trousse de maquillage à faire pâlir un peintre en bâtiment
 - une valise à roulette de 60 litres : seulement un sac à dos (un seul. mais une banane ça peut aller si elle ne gêne pas la marche)
 - une kitchenette avec réchaud gaz et frigo sur batterie : on déjeunera et dînera en chalet et on demandera de nous préparer des paniers-repas
--
+- l'ordinateur portable :)
 
 # Et s'il pleut fort ???
 #### L'Argentière-la-Bessée
