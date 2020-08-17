@@ -74,29 +74,45 @@ Températures extérieures attendues à 2200 mètres : 16°C la journée, 6 la n
 ### En refuge
 - lampe frontale
 - bouchons d’oreilles
+- une taie d'oreiller
 - Sac de couchage et éventuellement draps de sac
+- pyjama
 - kit de toilette
-- change
-- maillot de bain (sauna, piscine ...)
+- serviette en microfibre (peut-être gant de toilette)
+- change : deux slips, deux paires de chausettes, deux T-Shirts
+- maillot de bain (à confirmer)
+- 1 rouleau de PQ
+- des chaussons ou tongs (dans les refuges, ils ont l'air de prêter des crocs normalement, mais à cause du covid il faut apporter ses chaussons) (à confirmer)
 
 ### En rando
+(on allègera avant de partir en fonction de la météo)
 **Chacun :**
-- chapeau
-- lunettes de soleil
+- veste imperméable type coupe vent ou K-way
+- un pull en polaire
+- un sous-pull plus léger
+- un short léger et un pantalon de randonnée
+- bonnet & gants fins peuvent être utiles
+- un chapeau couvrant
+- une paire de lunettes de soleil
 - crème solaire (on peut prendre un seul tube pour tous)
-- veste imperméable
-- polaire
 - téléphone portable
-- eau
-- encas
+- une lampe frontale
+- eau : 2x75cl
+- encas (chocolat, bares de céréale ...)
 - panier-repas (commandés aux refuges)
-- moyen de paiement(chèque ou espèces)
+- moyen de paiement(du cash)
+- un sac plastique pour les affaires sales ou mouillées
+- ses médocs si nécesaire
+- papiers d'identité
 
 **Pierre :**
-- trousse de secours
+- trousse de secours + pastilels chlore
 - carte ou topoguide
 - boussole
 - coordonnées du refuge
+- un jeu de cartes
+- jumelles
+- un chargeur µusb/usbc/apple
 
 ## Ce qu'il ne faut PAS emporter
 Toutes les choses que vous allez devoir porter sur votre dos et qui ne servent pas pendant notre rando
